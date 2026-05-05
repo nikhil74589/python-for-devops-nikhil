@@ -13,7 +13,8 @@
 # m=10.0
 # print(n+m)
 
-num="100"
+num=100
 name="nikhil"
-print(num+" "+name)
+# print(num+" "+name)
 print(type(name))
+print(type(num))

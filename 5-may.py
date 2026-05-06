@@ -34,5 +34,5 @@
 # if min_age <= user_age: and user_id==nationality
 #     print("User is not eligible for voting")
 # else:
-#     print("User is not eligible for votuing")
+#     print("User is not eligible for voting")
 

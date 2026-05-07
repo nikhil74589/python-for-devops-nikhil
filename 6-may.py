@@ -92,5 +92,56 @@
 # if  num3>=num1 and num3>=num2 :
 #     print(f"{num3} is largest")
 
+# n=2
+# if n%2==0:
+#     print("Even")
+
+# n=100
+# if n>50:
+#     print("Yes1")
+
+# if n>60 :
+#     print("Yes2")
+
+# if n>70 :
+#     print("Yes3") 
+
+# n=100
+# if n>50:
+#     print("Yes1")
+
+# if n>300 :
+#     print("Yes2")
+
+# if n>70 :
+#     print("Yes3")     
+
+# n=100
+# if n>500:
+#     print("Yes1")
+
+# if n>60 :
+#     print("Yes2")
+
+# if n>70 :
+#     print("Yes3")
+
+# else :
+#     print("No") 
+
+# n=100
+# if n>500:
+#     print("Yes1")
+
+# if n>60 :
+#     print("Yes2")
+
+# if n>700 :
+#     print("Yes3")
+
+# else :
+#     print("No")     
+
+
 
     

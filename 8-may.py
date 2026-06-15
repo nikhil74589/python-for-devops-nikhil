@@ -80,15 +80,25 @@
 
 
 
-# wap to takes start_point and end_point from user input and print all number divisible by 2 and 3.
+# wap to takes start_point and end_point from user input and print all number divisible by 2 and 3:
 
-# start = int(input("Enter the start point:"))
-# end = int(input("Enter the end point:"))
-# print(f"Numbers between {start} and {end} divisible by both 2 and 3:" )
+# start_point = int(input("Enter start point: "))
+# end_point = int(input("Enter end point: "))
 
+# print("Numbers divisible by 2 and 3 are:")
+
+# for num in range(start_point, end_point + 1):
+#     if num % 2 == 0 and num % 3 == 0:
+#         print(num)
+
+
+
+# start = 1 
+# end=30
 # for num in range (start, end + 1):
 #     if num % 2 == 0 and num % 3== 0:
 #         print (num)
+
 
 
     

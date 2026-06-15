@@ -130,8 +130,8 @@
 
 #  WAP to print formatted table on a number given by user using while loop
 
-user_num=6
-i=1
-while i<=10:
-    print(f"{user_num} * {i} = {user_num *i}")
-    i+=1
+# user_num=6
+# i=1
+# while i<=10:
+#     print(f"{user_num} * {i} = {user_num *i}")
+#     i+=1
